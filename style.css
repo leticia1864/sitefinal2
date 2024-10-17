@@ -1,0 +1,10 @@
+.body{
+    background-color: antiquewhite;
+}
+
+.foto{
+    max-width: 300px;
+    max-height: 500px;
+    width: auto;
+    height: auto;
+}
